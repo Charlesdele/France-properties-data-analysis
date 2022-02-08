@@ -34,10 +34,13 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) if you don't have 
 
 
 <br/>
+
 ## Preprocessing
 
 In the first part of the notebook, we will transform the raw data into a valuable dataset easier to plot and use for interpretations. We notably get rid of nan values, inconsistencies, or redundancy using simple Python functions. We only want to keep the interesting data we can use. We will also create new columns which we will take a look at after.
+
 <br/>
+
 ## Analysis of the 2020 data
 
 We mainly use pyplot, pandas, seaborn, squarify, circlify to make our interpretations out of our dataset.
